@@ -1,9 +1,7 @@
 /**
-*	Myour - Personal Portfolio Template (HTML)
+*	Vincent Ferrer - Personal / Portfolio Website
 *	Version: 1.0
-*	Author: beshleyua
-*	Author URL: http://themeforest.net/user/beshleyua
-*	Copyright © Myour by beshleyua. All Rights Reserved.
+*	Author: Vincent / vinnyy
 **/
 
 ( function( $ ) {
